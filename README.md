@@ -16,11 +16,11 @@ I will leverage this repository to submit artifacts and enhanced artifacts throu
 
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
 
-Your content for the Professional Self-Assessment section goes here.
+My content for the Professional Self-Assessment section goes here.
 
 ## Initial Artifact Code Review <a name="initial-artifact-code-review"></a>
 
-Your content for the Initial Artifact Code Review section goes here.
+My content for the Initial Artifact Code Review section goes here.
 
 ### Code Review Video
 
@@ -28,7 +28,7 @@ Your content for the Initial Artifact Code Review section goes here.
 
 ## Enhancement 1 <a name="enhancement-1"></a>
 
-Your content for the Enhancement 1 section goes here.
+My content for the Enhancement 1 section goes here.
 
 ### Enhancement 1 Video
 
@@ -36,7 +36,7 @@ Your content for the Enhancement 1 section goes here.
 
 ## Enhancement 2 <a name="enhancement-2"></a>
 
-Your content for the Enhancement 2 section goes here.
+My content for the Enhancement 2 section goes here.
 
 ### Enhancement 2 Video
 
@@ -44,7 +44,7 @@ Your content for the Enhancement 2 section goes here.
 
 ## Enhancement 3 <a name="enhancement-3"></a>
 
-Your content for the Enhancement 3 section goes here.
+My content for the Enhancement 3 section goes here.
 
 ### Enhancement 3 Video
 
@@ -52,4 +52,4 @@ Your content for the Enhancement 3 section goes here.
 
 ## Contact Information <a name="contact-information"></a>
 
-Your contact information goes here.
+My contact information goes here.
