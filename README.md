@@ -1,4 +1,4 @@
-#RGB LED Cube Control Software
+# RGB LED Cube Control Software
 
 ![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
 
