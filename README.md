@@ -4,7 +4,7 @@
 
 
 
-## Table of Contents
+## Table of Contents <a name="table-of-contents"></a>
 
 1. [Professional Self-Assessment](#professional-self-assessment)
 2. [Initial Artifact Code Review](#initial-artifact-code-review)
@@ -19,6 +19,8 @@
 
 My content for the Professional Self-Assessment section goes here.
 
+[Back to Table of Contents](#table-of-contents)
+
 
 
 ## Initial Artifact Code Review <a name="initial-artifact-code-review"></a>
@@ -29,6 +31,7 @@ My content for the Initial Artifact Code Review section goes here.
 
 [![Code Review Video](https://img.youtube.com/vi/PrN7pwSR6RM/0.jpg)](https://www.youtube.com/watch?v=PrN7pwSR6RM)
 
+[Back to Table of Contents](#table-of-contents)
 
 
 ## Enhancement 1 <a name="enhancement-1"></a>
@@ -45,6 +48,8 @@ My content for the Enhancement 1 section goes here.
 
 Link to project files
 
+[Back to Table of Contents](#table-of-contents)
+
 
 
 ## Enhancement 2 <a name="enhancement-2"></a>
@@ -60,6 +65,8 @@ My content for the Enhancement 2 section goes here.
 ### Enhancement 2 Project Files
 
 Link to project files
+
+[Back to Table of Contents](#table-of-contents)
 
 
 
@@ -79,6 +86,8 @@ My content for the Enhancement 1 section goes here.
 
 Link to project files
 
+[Back to Table of Contents](#table-of-contents)
+
 
 
 ## Contact Information <a name="contact-information"></a>
@@ -96,3 +105,5 @@ My contact information goes here.
 Test  
 Test2  
 Test3  
+
+[Back to Table of Contents](#table-of-contents)
