@@ -8,9 +8,9 @@
 
 1. [Professional Self-Assessment](#professional-self-assessment)
 2. [Initial Artifact Code Review](#initial-artifact-code-review)
-3. [Enhancement 1](#enhancement-1)
-4. [Enhancement 2](#enhancement-2)
-5. [Enhancement 3](#enhancement-3)
+3. [Enhancement One](#enhancement-One)
+4. [Enhancement Two](#enhancement-Two)
+5. [Enhancement Three](#enhancement-Three)
 6. [Contact Information](#contact-information)
 
 
@@ -34,35 +34,25 @@ My content for the Initial Artifact Code Review section goes here.
 [Back to Table of Contents](#table-of-contents)
 
 
-## Enhancement 1 <a name="enhancement-1"></a>
-
-### Enhancement 1 Narrative
-
-My content for the Enhancement 1 section goes here.
-
-### Enhancement 1 Video
-
-[![Enhancement 1 Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
-
-### Enhancement 1 Project Files
-
-Link to project files
-
-[Back to Table of Contents](#table-of-contents)
 
 
 
-## Enhancement 2 <a name="enhancement-2"></a>
 
-### Enhancement 2 Narrative
 
-My content for the Enhancement 2 section goes here.
 
-### Enhancement 2 Video
 
-[![Enhancement 2 Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
 
-### Enhancement 2 Project Files
+## Enhancement One <a name="enhancement-One"></a>
+
+### Enhancement One Narrative
+
+My content for the Enhancement One section goes here.
+
+### Enhancement One Video
+
+[![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
+
+### Enhancement One Project Files
 
 Link to project files
 
@@ -70,40 +60,67 @@ Link to project files
 
 
 
-## Enhancement 3 <a name="enhancement-3"></a>
 
-### Enhancement 3 Narrative
+
+
+
+
+
+
+## Enhancement Two <a name="enhancement-Two"></a>
+
+### Enhancement Two Narrative
+
+My content for the Enhancement Two section goes here.
+
+### Enhancement Two Video
+
+[![Enhancement Two Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
+
+### Enhancement Two Project Files
+
+Link to project files
+
+[Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
+
+
+
+## Enhancement Three <a name="enhancement-Three"></a>
+
+### Enhancement Three Narrative
 
 #### Narrative Header Test
 
-My content for the Enhancement 1 section goes here.
+My content for the Enhancement Three section goes here.
 
-### Enhancement 3 Video
+### Enhancement Three Video
 
-[![Enhancement 3 Video](https://img.youtube.com/vi/LhghKqOzzrc/0.jpg)](https://www.youtube.com/watch?v=LhghKqOzzrc)
+[![Enhancement Three Video](https://img.youtube.com/vi/LhghKqOzzrc/0.jpg)](https://www.youtube.com/watch?v=LhghKqOzzrc)
 
-### Enhancement 3 Project Files
+### Enhancement Three Project Files
 
 Link to project files
 
 [Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
 
 
 
 ## Contact Information <a name="contact-information"></a>
 
 My contact information goes here.
-
-
-# H1 Test
-## H2 Test
-### H3 Test
-#### H4 Test
-##### H5 Test
-###### H6 Test
-
-Test  
-Test2  
-Test3  
 
 [Back to Table of Contents](#table-of-contents)
