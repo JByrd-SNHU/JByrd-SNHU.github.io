@@ -111,7 +111,7 @@ interface comprised of Login, Hardware Init, Cube Control, and Database tabs, re
 
 ##### Login Tab Functionality
 
-![Initial Artifact UI](/Images/Initial_Artifact_UI.png)  
+![Login Tab](/Images/Login_Tab.png)  
 The implementation of the Login tab introduces elements of software security and user authentication to the project. The creation of a 
 userCredentials class, complete with functions to check and verify user credentials, showcases my expertise in implementing secure software 
 practices. The seamless integration of login functionality, including feedback mechanisms for successful and failed attempts, underscores my 
@@ -119,7 +119,7 @@ attention to both usability and security aspects.
 
 ##### Dynamic Hardware Initialization Tab Functionality
 
-![Initial Artifact UI](/Images/Initial_Artifact_UI.png)  
+![Hardware Init Tab](/Images/Hardware_Init_Tab.png)  
 The Dynamic Hardware Initialization functionality further highlights my skills in software development. The addition of a QSerialPort object 
 demonstrates my ability to integrate external communication protocols into the software architecture. The implementation of error handling 
 mechanisms, such as checking for valid COM port entries and securing against repeated initialization attempts, showcases my commitment to robust 
