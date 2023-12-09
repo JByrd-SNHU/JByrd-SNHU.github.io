@@ -178,6 +178,15 @@ Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills with Databases
 
+For this development phase, I chose the "RGB LED Cube Control Software" to showcase substantial advancements in database integration, underlining my 
+proficiency in crafting full-stack applications. The introduction of the sqliteCRUDModule class marked a significant stride, focusing on 
+implementing CRUD (Create, Read, Update, Delete) operations and showcasing a commitment to modular and organized code. The creation of the 
+"RGB_LED_CCS_DB.db" database, including the "cubePatterns" table, illustrated a deliberate approach to structured data storage, aligning with the 
+principles of CRUD. The decision to pivot from MongoDB to SQLite, which I will speak to in further detail below, underscored a pragmatic 
+problem-solving approach, emphasizing adaptability and decision-making skills. In essence, this artifact selection highlights my dedication to 
+mastering comprehensive database integration, particularly emphasizing CRUD functionality, and illustrates my ability to interface with databases and 
+integrate them seamlessly into full-stack applications within the realm of software development.
+
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
 ### Enhancement Three Video
