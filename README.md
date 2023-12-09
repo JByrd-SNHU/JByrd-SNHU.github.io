@@ -25,6 +25,8 @@ My content for the Professional Self-Assessment section goes here.
 
 ## Initial Artifact <a name="initial-artifact"></a>
 
+### Description
+
 The artifact central to my enhancements is the "RGB LED Cube Control Software," a project initiated during my Electrical Engineering Technology Associate 
 degree program's capstone in 2015. Initially, I constructed a 4x4x4 LED Cube with RGB LEDs, shown below, integrating it with an FPGA development board and 
 crafting custom firmware to manipulate the 52 control lines governing the 64 LEDs.  
