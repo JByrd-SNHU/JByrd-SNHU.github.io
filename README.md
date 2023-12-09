@@ -96,6 +96,14 @@ Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills in Software Design/Engineering
 
+For this phase of development, I selected the "RGB LED Cube Control Software" due to its unique amalgamation of hardware and software components. 
+The project's standout features in Enhancement One include a thorough UI overhaul, seamless integration of security-centric features, and its 
+pivotal role as the starting point for full-stack application development. Collectively, these aspects emphasize my proficiency and adaptability 
+in software design and engineering.
+
+
+#### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
+
 ### Enhancement One Video
 
 [![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
@@ -128,6 +136,8 @@ Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
 
+#### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
+
 ### Enhancement Two Video
 
 [![Enhancement Two Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
@@ -159,6 +169,8 @@ titled "Initial Artifact - Description".
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills with Databases
+
+#### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
 ### Enhancement Three Video
 
