@@ -47,9 +47,9 @@ in the ongoing development of a project that seamlessly marries my technical ski
 
 ### Links Back to Enhancements One - Three Artifact Descriptions
 
-[Link Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)
-[Link Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)
-[Link Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)
+[Link Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)  
+[Link Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)  
+[Link Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)  
 
 ### Project Outline and Code Review Video
 
