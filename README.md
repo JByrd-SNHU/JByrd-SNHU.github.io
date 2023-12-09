@@ -87,9 +87,9 @@ In the video linked below, I address the following:
 
 ### Enhancement One Narrative
 
-#### Enhancement One Artifact Choice <a name="enhancement-one-artifact-choice"></a>
+#### Artifact Choice <a name="enhancement-one-artifact-choice"></a>
 
-For Enhancement One, which concentrated on Software Engineering and Design, I selected the RGB LED Cube Control Software as the focal artifact. A 
+For Enhancement One, which concentrated on **Software Engineering and Design**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact - Description".  
 Link to [Initial Artifact - Description](#initial-artifact-description)
@@ -117,9 +117,12 @@ Link to project files
 
 ### Enhancement Two Narrative
 
-#### Enhancement Two Artifact Choice <a name="enhancement-two-artifact-choice"></a>
+#### Artifact Choice <a name="enhancement-two-artifact-choice"></a>
 
-My content for the Enhancement Two section goes here.
+For Enhancement Two, which concentrated on **Algorithms and Data Structures**, I selected the RGB LED Cube Control Software as the focal artifact. A 
+comprehensive description of this particular artifact has been provided in detail in the preceding section 
+titled "Initial Artifact - Description".  
+Link to [Initial Artifact - Description](#initial-artifact-description)
 
 ### Enhancement Two Video
 
@@ -144,9 +147,12 @@ Link to project files
 
 ### Enhancement Three Narrative
 
-#### Enhancement Three Artifact Choice <a name="enhancement-three-artifact-choice"></a>
+#### Artifact Choice <a name="enhancement-three-artifact-choice"></a>
 
-My content for the Enhancement Three section goes here.
+For Enhancement Three, which concentrated on **Databases**, I selected the RGB LED Cube Control Software as the focal artifact. A 
+comprehensive description of this particular artifact has been provided in detail in the preceding section 
+titled "Initial Artifact - Description".  
+Link to [Initial Artifact - Description](#initial-artifact-description)
 
 ### Enhancement Three Video
 
