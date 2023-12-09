@@ -60,17 +60,6 @@ in the ongoing development of a project that seamlessly marries my technical ski
 
 
 
-## Initial Artifact - A  <a name="initial-artifact-code-review"></a>
-
-
-
-
-
-
-
-
-
-
 ## Enhancement One <a name="enhancement-one"></a>
 
 ### Enhancement One Narrative
