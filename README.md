@@ -135,6 +135,72 @@ A visual walkthrough encapsulated in the video linked below provides a dynamic e
 intricacies of the software enhancements but also showcases the live functionality of the RGB LED Cube Control Software.  
 [![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
 
+#### Meeting Course Objectives
+
+##### Outcome One
+
+The first outcome I met in this enhancement was, "Demonstrate and ability to use well-founded and innovative techniques, skills, and tools in 
+computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals".
+
+###### QT Library Usage
+
+In achieving this, I strategically utilized QT's UI framework and QTSerialPort library, demonstrating a proficiency in integrating innovative 
+tools into my work. This choice not only highlighted my technical skills but also emphasized the importance of leveraging external APIs and 
+libraries in professional development, showcasing my capacity to expand capabilities without starting from scratch. My proficiency in navigating 
+documentation pertaining to these libraries further underscored my understanding of this crucial aspect.
+
+###### Full Stack Application Development
+
+The development of an efficient UI with streamlined user interaction and robust exception handling was pivotal in realizing the broader goal of 
+creating a full-stack application. This enhancement serves as a visible starting point for the top layer of the stack, the UI, and the intermediary 
+layer, which comprises the code responsible for enabling login and serial port functionality. This meticulous attention to the UI's design and 
+functionality not only aligns with the project's goals but also reinforces my commitment to delivering solutions that meet industry standards and 
+user expectations.
+
+##### Outcome Two
+
+The second outcome I met with this enhancement was, “Develop a security mindset that anticipates adversarial exploits in software architecture 
+and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data resources”.
+
+##### Class Creation - userCredentials
+
+This approach involved the creation of a dedicated userCredentials class, emphasizing the importance of safeguarding sensitive login information. 
+The instantiation of this class during program startup, with username and password variables initialized from static const QString variables, 
+systemUserName, and systemPassword, establishes a secure foundation for user authentication.
+
+###### Secure UI Design
+
+The UI design reflects a security-conscious strategy by initially granting access solely to the login tab at startup. Successful authentication is 
+required for progression within the system. A systematic control mechanism, triggered upon successful login, secures the login button and grants 
+access to subsequent tabs.  
+
+This approach ensures that the software not only meets functional objectives but also embodies a proactive stance in addressing potential security 
+vulnerabilities. The emphasis on a secure user authentication process and controlled system progression underscores a commitment to robust software 
+architecture and data security.
+
+#### Reflecting on Enhancement One
+
+##### Stepping Back from Relying on QT Designer for UI Interactions
+
+In working on this enhancement, my previous experience largely revolved around utilizing QT Designer for crafting user interfaces and linking UI events 
+to underlying software functionality. However, the specific requirements of this project required me to take a step back from relying on the built-in 
+functionality of QT Designer. It lacked the capability to implement dynamic features, such as locking individual tabs or buttons based on other system 
+actions. Initially, this shift posed a challenge, requiring a transition to manipulating widget properties directly in the code. This adjustment proved 
+to be very rewarding as it offered a newfound level of flexibility within the QT UI Framework.
+
+##### Security-Centric Mindset
+
+Another noteworthy learning curve involved adopting a security-centric mindset, stepping back from my typical approach in school assignments where 
+functionality took precedence. In professional software development experience, security concerns often fall within a dedicated sector, and private 
+networks provide an additional layer of defense. However, this enhancement required a more comprehensive consideration of security aspects within my 
+project. While initially unfamiliar, addressing security concerns became a welcomed challenge. It prompted a shift in perspective, allowing me to analyze 
+my project through a new lens and integrate security measures seamlessly into the development process.
+
+##### Conclusion
+
+This dual learning experience not only expanded my technical skills but also enriched my approach to software development by incorporating a heightened 
+awareness of security considerations
+
 ### Enhancement One Project Files
 
 Link to project files
