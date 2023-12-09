@@ -162,7 +162,7 @@ user expectations.
 The second outcome I met with this enhancement was, “Develop a security mindset that anticipates adversarial exploits in software architecture 
 and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data resources”.
 
-##### Class Creation - userCredentials
+###### Class Creation - userCredentials
 
 This approach involved the creation of a dedicated userCredentials class, emphasizing the importance of safeguarding sensitive login information. 
 The instantiation of this class during program startup, with username and password variables initialized from static const QString variables, 
