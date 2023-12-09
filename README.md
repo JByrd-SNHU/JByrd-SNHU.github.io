@@ -45,6 +45,12 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
+### Links Back to Enhancements One - Three Artifact Descriptions
+
+[Link Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)
+[Link Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)
+[Link Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)
+
 ### Project Outline and Code Review Video
 
 In the video linked below, I address the following:
@@ -82,7 +88,7 @@ In the video linked below, I address the following:
 
 ### Enhancement One Narrative
 
-#### Enhancement One Artifact Choice
+#### Enhancement One Artifact Choice <a name="enhancement-one-artifact-choice"></a>
 
 For Enhancement One, which concentrated on Software Engineering and Design, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section titled "Initial Artifact - Description", 
@@ -114,6 +120,8 @@ Link to project files
 
 ### Enhancement Two Narrative
 
+#### Enhancement Two Artifact Choice <a name="enhancement-two-artifact-choice"></a>
+
 My content for the Enhancement Two section goes here.
 
 ### Enhancement Two Video
@@ -139,7 +147,7 @@ Link to project files
 
 ### Enhancement Three Narrative
 
-#### Narrative Header Test
+#### Enhancement Three Artifact Choice <a name="enhancement-three-artifact-choice"></a>
 
 My content for the Enhancement Three section goes here.
 
