@@ -101,7 +101,6 @@ The project's standout features in Enhancement One include a thorough UI overhau
 pivotal role as the starting point for full-stack application development. Collectively, these aspects emphasize my proficiency and adaptability 
 in software design and engineering.
 
-
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
 ### Enhancement One Video
@@ -135,6 +134,15 @@ titled "Initial Artifact - Description".
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
+
+For this phase of development, I again chose the "RGB LED Cube Control Software" precisely because it posed a distinctive challenge, immersing me in 
+the nuances of software architecture related to data structures and algorithmic design. The refinements introduced in this stage, such as the 
+overhauled Cube Control Tab, introduction of novel classes (led and cubeControl), and the inventive Cube Timing Algorithm, serve as concrete 
+demonstrations of my proficiency in navigating algorithmic intricacies while ensuring streamlined data management. Notably, the Data Parsing 
+Algorithm, strategically crafted to seamlessly integrate with an upcoming database module, reflects a forward-thinking approach to software design 
+and underscores my commitment to creating adaptable and future-proof solutions. In essence, this selection highlights my unwavering dedication to 
+mastering algorithms and data structures, thereby enriching the comprehensive skill set showcased in my ePortfolio.
+
 
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
