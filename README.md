@@ -7,7 +7,7 @@
 ## Table of Contents <a name="table-of-contents"></a>
 
 1. [Professional Self-Assessment](#professional-self-assessment)
-2. [Initial Artifact Code Review](#initial-artifact-code-review)
+2. [Initial Artifact](#initial-artifact)
 3. [Enhancement One](#enhancement-one)
 4. [Enhancement Two](#enhancement-two)
 5. [Enhancement Three](#enhancement-three)
@@ -23,15 +23,42 @@ My content for the Professional Self-Assessment section goes here.
 
 
 
-## Initial Artifact Code Review <a name="initial-artifact-code-review"></a>
+## Initial Artifact <a name="initial-artifact"></a>
 
-My content for the Initial Artifact Code Review section goes here.
+The artifact central to my enhancements is the "RGB LED Cube Control Software," a project initiated during my Electrical Engineering Technology Associate 
+degree program's capstone in 2015. Initially, I constructed a 4x4x4 LED Cube with RGB LEDs, shown below, integrating it with an FPGA development board and 
+crafting custom firmware to manipulate the 52 control lines governing the 64 LEDs.  
+
+![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
+
+In a recent pursuit of rekindling my enthusiasm for the project, I designed additional circuitry to interface my RGB LED Cube Control Software with an 
+Arduino Uno, facilitating control over the RGB LEDs. Prior to the start of this course, I had developed a simple functional user interface (UI), shown 
+below, establishing communication with the Arduino Uno through a COM Port. This initial UI empowered me to illuminate one color of one LED based on 
+user-defined color, X, Y, and Z values.
+
+![Initial Artifact UI](/Images/Initial_Artifact_UI.png)
+
+Having accomplished the hardware integration and circuitry enhancements, the focus of my Computer Science Capstone project pivots decisively to the 
+evolution of the RGB LED Cube Control Software. With the foundational hardware components in place and the initial user interface demonstrating functional 
+control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
+in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
 ### Code Review Video
 
 [![Code Review Video](https://img.youtube.com/vi/PrN7pwSR6RM/0.jpg)](https://www.youtube.com/watch?v=PrN7pwSR6RM)
 
 [Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
+
+
+
+## Initial Artifact - A  <a name="initial-artifact-code-review"></a>
 
 
 
