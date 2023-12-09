@@ -45,7 +45,29 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
-### Code Review Video
+### Project Outline and Code Review Video
+
+In the video linked below, I will address the following:
+
+- **Project Background**
+  - Description of the hardware
+  - Arduino Driver
+
+- **Initial Artifact - RGB LED Cube Control Software**
+  - Discuss how it works
+  - Code Review
+
+- **Enhancement 1**
+  - Discuss Enhancement Plan
+  - Discuss which course outcomes this enhancement works towards
+
+- **Enhancement 2**
+  - Discuss Enhancement Plan
+  - Discuss which course outcomes this enhancement works towards
+
+- **Enhancement 3**
+  - Discuss Enhancement Plan
+  - Discuss which course outcomes this enhancement works towards
 
 [![Code Review Video](https://img.youtube.com/vi/PrN7pwSR6RM/0.jpg)](https://www.youtube.com/watch?v=PrN7pwSR6RM)
 
