@@ -90,8 +90,8 @@ In the video linked below, I address the following:
 #### Enhancement One Artifact Choice <a name="enhancement-one-artifact-choice"></a>
 
 For Enhancement One, which concentrated on Software Engineering and Design, I selected the RGB LED Cube Control Software as the focal artifact. A 
-comprehensive description of this particular artifact has been provided in detail in the preceding section titled [Initial Artifact - Description]
-(#initial-artifact-description).
+comprehensive description of this particular artifact has been provided in detail in the preceding section 
+titled [Initial Artifact - Description](#initial-artifact-description).
 
 ### Enhancement One Video
 
