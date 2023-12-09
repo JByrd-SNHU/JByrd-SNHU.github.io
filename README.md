@@ -46,9 +46,9 @@ control over individual LEDs, my aim is to delve into advanced features and opti
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
 ### Links Back to Enhancements One - Three Artifact Descriptions
-[Link Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)  
-[Link Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)  
-[Link Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)  
+[Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)  
+[Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)  
+[Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)  
 
 ### Project Outline and Code Review Video
 
@@ -90,7 +90,8 @@ In the video linked below, I address the following:
 #### Enhancement One Artifact Choice <a name="enhancement-one-artifact-choice"></a>
 
 For Enhancement One, which concentrated on Software Engineering and Design, I selected the RGB LED Cube Control Software as the focal artifact. A 
-comprehensive description of this particular artifact has been provided in detail in the preceding section titled [Initial Artifact - Description](#initial-artifact-description)
+comprehensive description of this particular artifact has been provided in detail in the preceding section titled [Initial Artifact - Description]
+(#initial-artifact-description).
 
 ### Enhancement One Video
 
