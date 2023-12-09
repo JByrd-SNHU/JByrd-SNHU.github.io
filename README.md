@@ -8,9 +8,9 @@
 
 1. [Professional Self-Assessment](#professional-self-assessment)
 2. [Initial Artifact Code Review](#initial-artifact-code-review)
-3. [Enhancement One](#enhancement-One)
-4. [Enhancement Two](#enhancement-Two)
-5. [Enhancement Three](#enhancement-Three)
+3. [Enhancement One](#enhancement-one)
+4. [Enhancement Two](#enhancement-two)
+5. [Enhancement Three](#enhancement-three)
 6. [Contact Information](#contact-information)
 
 
@@ -42,7 +42,7 @@ My content for the Initial Artifact Code Review section goes here.
 
 
 
-## Enhancement One <a name="enhancement-One"></a>
+## Enhancement One <a name="enhancement-one"></a>
 
 ### Enhancement One Narrative
 
@@ -67,7 +67,7 @@ Link to project files
 
 
 
-## Enhancement Two <a name="enhancement-Two"></a>
+## Enhancement Two <a name="enhancement-two"></a>
 
 ### Enhancement Two Narrative
 
@@ -92,7 +92,7 @@ Link to project files
 
 
 
-## Enhancement Three <a name="enhancement-Three"></a>
+## Enhancement Three <a name="enhancement-three"></a>
 
 ### Enhancement Three Narrative
 
