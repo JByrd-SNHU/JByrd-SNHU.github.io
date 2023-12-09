@@ -36,7 +36,7 @@ Arduino Uno, facilitating control over the RGB LEDs. Prior to the start of this 
 below, establishing communication with the Arduino Uno through a COM Port. This initial UI empowered me to illuminate one color of one LED based on 
 user-defined color, X, Y, and Z values.
 
-![Initial Artifact UI](/Images/Initial_Artifact_UI2.png)
+![Initial Artifact UI](/Images/Initial_Artifact_UI.png)
 
 Having accomplished the hardware integration and circuitry enhancements, the focus of my Computer Science Capstone project pivots decisively to the 
 evolution of the RGB LED Cube Control Software. With the foundational hardware components in place and the initial user interface demonstrating functional 
