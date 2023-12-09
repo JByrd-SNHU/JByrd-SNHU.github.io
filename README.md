@@ -47,7 +47,7 @@ in the ongoing development of a project that seamlessly marries my technical ski
 
 ### Project Outline and Code Review Video
 
-In the video linked below, I will address the following:
+In the video linked below, I address the following:
 
 - **Project Background**
   - Description of the hardware
