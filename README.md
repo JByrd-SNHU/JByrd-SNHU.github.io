@@ -25,9 +25,9 @@ My content for the Professional Self-Assessment section goes here.
 
 ## Initial Artifact <a name="initial-artifact"></a>
 
-### Description
+### Description <a name="initial-artifact-description></a>
 
-The artifact central to my enhancements is the "RGB LED Cube Control Software," a project initiated during my Electrical Engineering Technology Associate 
+The artifact central to my enhancements is the "RGB LED Cube Control Software", a project initiated during my Electrical Engineering Technology Associate 
 degree program's capstone in 2015. Initially, I constructed a 4x4x4 LED Cube with RGB LEDs, shown below, integrating it with an FPGA development board and 
 crafting custom firmware to manipulate the 52 control lines governing the 64 LEDs.  
 
@@ -82,7 +82,14 @@ In the video linked below, I address the following:
 
 ### Enhancement One Narrative
 
-My content for the Enhancement One section goes here.
+#### Enhancement One Artifact Choice
+
+For Enhancement One, which concentrated on Software Engineering and Design, I selected the RGB LED Cube Control Software as the focal artifact. A 
+comprehensive description of this particular artifact has been provided in detail in the preceding section titled "Initial Artifact - Description", 
+linked below.
+
+[Initial Artifact Description](#initial-artifact-description)
+
 
 ### Enhancement One Video
 
