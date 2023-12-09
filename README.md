@@ -94,6 +94,8 @@ comprehensive description of this particular artifact has been provided in detai
 titled "Initial Artifact - Description".  
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
+#### Why I Chose This Artifact to Display My Skills in Software Design/Engineering
+
 ### Enhancement One Video
 
 [![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
@@ -124,6 +126,8 @@ comprehensive description of this particular artifact has been provided in detai
 titled "Initial Artifact - Description".  
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
+#### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
+
 ### Enhancement Two Video
 
 [![Enhancement Two Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
@@ -153,6 +157,8 @@ For Enhancement Three, which concentrated on **Databases**, I selected the RGB L
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact - Description".  
 Link to [Initial Artifact - Description](#initial-artifact-description)
+
+#### Why I Chose This Artifact to Display My Skills with Databases
 
 ### Enhancement Three Video
 
