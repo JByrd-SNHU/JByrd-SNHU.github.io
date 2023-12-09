@@ -103,8 +103,36 @@ in software design and engineering.
 
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
-### Enhancement One Video
+##### UI Overhaul
 
+The decision to overhaul the user interface (UI) exemplifies my proficiency in graphical user interface design. In creating a new project within 
+QT Creator, I demonstrated the ability to construct an intuitive and visually appealing UI. The transition from a singular view to a multi-tab 
+interface comprised of Login, Hardware Init, Cube Control, and Database tabs, reflects my capacity to architect complex UI structures.
+
+##### Login Tab Functionality
+
+**Image**
+The implementation of the Login tab introduces elements of software security and user authentication to the project. The creation of a 
+userCredentials class, complete with functions to check and verify user credentials, showcases my expertise in implementing secure software 
+practices. The seamless integration of login functionality, including feedback mechanisms for successful and failed attempts, underscores my 
+attention to both usability and security aspects.
+
+##### Dynamic Hardware Initialization Tab Functionality
+
+**Image**
+The Dynamic Hardware Initialization functionality further highlights my skills in software development. The addition of a QSerialPort object 
+demonstrates my ability to integrate external communication protocols into the software architecture. The implementation of error handling 
+mechanisms, such as checking for valid COM port entries and securing against repeated initialization attempts, showcases my commitment to robust 
+and reliable software design.  
+  
+In summary, the RGB LED Cube Control Software is a compelling addition to my ePortfolio as it not only represents the evolution of a hardware 
+project but also serves as a testament to my growth in software development. The enhancements made in the UI, security features, and dynamic 
+hardware initialization underscore my ability to conceive and implement sophisticated software solutions. The ongoing refinement of this artifact 
+aligns with my commitment to advancing and showcasing my software development skills throughout my academic and professional journey.
+
+##### Enhancement One Video
+A visual walkthrough encapsulated in the video linked below provides a dynamic exploration of these updates. The video not only discusses the 
+intricacies of the software enhancements but also showcases the live functionality of the RGB LED Cube Control Software.
 [![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
 
 ### Enhancement One Project Files
@@ -142,7 +170,6 @@ demonstrations of my proficiency in navigating algorithmic intricacies while ens
 Algorithm, strategically crafted to seamlessly integrate with an upcoming database module, reflects a forward-thinking approach to software design 
 and underscores my commitment to creating adaptable and future-proof solutions. In essence, this selection highlights my unwavering dedication to 
 mastering algorithms and data structures, thereby enriching the comprehensive skill set showcased in my ePortfolio.
-
 
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
