@@ -12,6 +12,13 @@
 4. [Enhancement Two](#enhancement-two)
 5. [Enhancement Three](#enhancement-three)
 6. [Contact Information](#contact-information)
+  
+  
+
+
+
+
+
 
 
 
@@ -20,6 +27,13 @@
 My content for the Professional Self-Assessment section goes here.
 
 [Back to Table of Contents](#table-of-contents)
+  
+  
+
+
+
+
+
 
 
 
@@ -73,8 +87,8 @@ In the video linked below, I address the following:
 [![Code Review Video](https://img.youtube.com/vi/PrN7pwSR6RM/0.jpg)](https://www.youtube.com/watch?v=PrN7pwSR6RM)
 
 [Back to Table of Contents](#table-of-contents)
-
-
+  
+  
 
 
 
@@ -211,8 +225,8 @@ awareness of security considerations
 Link to project files
 
 [Back to Table of Contents](#table-of-contents)
-
-
+  
+  
 
 
 
