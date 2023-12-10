@@ -1,12 +1,11 @@
----
 # RGB LED Cube Control Software
----
+
 ![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
 
 
----
+
 ## Table of Contents <a name="table-of-contents"></a>
----
+
 1. [Professional Self-Assessment](#professional-self-assessment)
 2. [Initial Artifact](#initial-artifact)
 3. [Enhancement One](#enhancement-one)
@@ -22,9 +21,9 @@
 
 
 
----
+
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
----
+
 My content for the Professional Self-Assessment section goes here.
 
 [Back to Table of Contents](#table-of-contents)
@@ -37,9 +36,9 @@ My content for the Professional Self-Assessment section goes here.
 
 
 
----
+
 ## Initial Artifact <a name="initial-artifact"></a>
----
+
 ### Description <a name="initial-artifact-description"></a>
 
 The artifact central to my enhancements is the "RGB LED Cube Control Software", a project initiated during my Electrical Engineering Technology Associate 
@@ -97,9 +96,9 @@ In the video linked below, I address the following:
 
 
 
----
+
 ## Enhancement One <a name="enhancement-one"></a>
----
+
 ### Enhancement One Narrative
 
 #### Artifact Choice <a name="enhancement-one-artifact-choice"></a>
@@ -235,9 +234,9 @@ Link to project files
 
 
 
----
+
 ## Enhancement Two <a name="enhancement-two"></a>
----
+
 ### Enhancement Two Narrative
 
 #### Artifact Choice <a name="enhancement-two-artifact-choice"></a>
@@ -504,9 +503,9 @@ Link to project files
 
 
 
----
+
 ## Enhancement Three <a name="enhancement-three"></a>
----
+
 ### Enhancement Three Narrative
 
 #### Artifact Choice <a name="enhancement-three-artifact-choice"></a>
@@ -552,9 +551,9 @@ Link to project files
 
 
 
----
+
 ## Contact Information <a name="contact-information"></a>
----
+
 My contact information goes here.
 
 [Back to Table of Contents](#table-of-contents)
