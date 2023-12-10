@@ -222,7 +222,8 @@ awareness of security considerations
 
 ### Enhancement One Project Files
 
-Link to project files
+[Link to Enhancement One Narrative](./Artifact_Enhancement_1/Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20Narrative%20-%20Justin%20Byrd.docx)  
+
 
 [Back to Table of Contents](#table-of-contents)
   
