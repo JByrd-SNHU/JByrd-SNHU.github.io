@@ -20,8 +20,8 @@
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
 
 My content for the Professional Self-Assessment section goes here.
@@ -35,8 +35,8 @@ My content for the Professional Self-Assessment section goes here.
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Initial Artifact <a name="initial-artifact"></a>
 
 ### Description <a name="initial-artifact-description"></a>
@@ -95,8 +95,8 @@ In the video linked below, I address the following:
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Enhancement One <a name="enhancement-one"></a>
 
 ### Enhancement One Narrative
@@ -233,8 +233,8 @@ Link to project files
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Enhancement Two <a name="enhancement-two"></a>
 
 ### Enhancement Two Narrative
@@ -502,8 +502,8 @@ Link to project files
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Enhancement Three <a name="enhancement-three"></a>
 
 ### Enhancement Three Narrative
@@ -550,8 +550,8 @@ Link to project files
 
 
 
-
-<br>  
+&nbsp;
+&nbsp;
 ## Contact Information <a name="contact-information"></a>
 
 My contact information goes here.
