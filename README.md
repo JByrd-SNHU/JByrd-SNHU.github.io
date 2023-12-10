@@ -495,9 +495,9 @@ development.
 
 ### Enhancement Two Project File Links
 
-[Link to Enhancement Two Narrative Word Document](./Artifact_Enhancement_2/Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20Narrative%20-%20Justin%20Byrd.docx)  
-[Link to Enhancement Two Stand-Alone Code Files Directory](./Artifact_Enhancement_2/Individual_Code_Files/)  
-[Link to Enhancement Two Full Project .zip File](./Artifact_Enhancement_2/RGB_LED_CCS%20-%20Enhancement%202.zip)  
+[Link to Enhancement Two Narrative Word Document](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20Narrative%20-%20Justin%20Byrd.docx)  
+[Link to Enhancement Two Stand-Alone Code Files Directory](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_2/Individual_Code_Files)  
+[Link to Enhancement Two Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/RGB_LED_CCS%20-%20Enhancement%202.zip)  
 
 
 
@@ -685,9 +685,9 @@ the project context.
 
 ### Enhancement Three Project File Links
 
-[Link to Enhancement Three Narrative Word Document](./Artifact_Enhancement_3/Milestone%20Four%20Enhancement%20Three%20Databases%20Narrative%20-%20Justin%20Byrd.docx)  
-[Link to Enhancement Three Stand-Alone Code Files Directory](./Artifact_Enhancement_3/Individual_Code_Files/)  
-[Link to Enhancement Three Full Project .zip File](./Artifact_Enhancement_3/RGB_LED_CCS%20-%20Enhancement%203.zip)  
+[Link to Enhancement Three Narrative Word Document](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_3/Milestone%20Four%20Enhancement%20Three%20Databases%20Narrative%20-%20Justin%20Byrd.docx)  
+[Link to Enhancement Three Stand-Alone Code Files Directory](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_3/Individual_Code_Files)  
+[Link to Enhancement Three Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_3/RGB_LED_CCS%20-%20Enhancement%203.zip)  
 
 
 
