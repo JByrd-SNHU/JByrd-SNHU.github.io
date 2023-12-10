@@ -59,7 +59,7 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
-### Links Back to Enhancements One - Three Artifact Descriptions
+### Links Back to Enhancement Artifact Descriptions
 [Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)  
 [Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)  
 [Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)  
