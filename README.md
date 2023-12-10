@@ -493,7 +493,7 @@ such as managing power draw and optimizing communication speed to achieve the de
 concepts explored. These hands-on experiences deepened my understanding of the underlying principles and intricacies involved in real-world software 
 development.
 
-### Enhancement Two Project Files
+### Enhancement Two Project File Links
 
 [Link to Enhancement Two Narrative Word Document](./Artifact_Enhancement_2/Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20Narrative%20-%20Justin%20Byrd.docx)  
 [Link to Enhancement Two Stand-Alone Code Files Directory](./Artifact_Enhancement_2/Individual_Code_Files/)  
@@ -683,7 +683,7 @@ underscored adaptability and resilience, showcasing the real-world decision-maki
 encapsulated not just technical advancements but also the development of problem-solving skills and a deeper understanding of database management within 
 the project context.
 
-### Enhancement Three Project Files
+### Enhancement Three Project File Links
 
 [Link to Enhancement Three Narrative Word Document](./Artifact_Enhancement_3/Milestone%20Four%20Enhancement%20Three%20Databases%20Narrative%20-%20Justin%20Byrd.docx)  
 [Link to Enhancement Three Stand-Alone Code Files Directory](./Artifact_Enhancement_3/Individual_Code_Files/)  
