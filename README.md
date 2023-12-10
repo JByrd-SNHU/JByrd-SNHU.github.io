@@ -1,9 +1,10 @@
+---
 # RGB LED Cube Control Software
 
 ![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
 
 
-
+---
 ## Table of Contents <a name="table-of-contents"></a>
 
 1. [Professional Self-Assessment](#professional-self-assessment)
@@ -21,7 +22,7 @@
 
 
 
-
+---
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
 
 My content for the Professional Self-Assessment section goes here.
@@ -36,7 +37,7 @@ My content for the Professional Self-Assessment section goes here.
 
 
 
-
+---
 ## Initial Artifact <a name="initial-artifact"></a>
 
 ### Description <a name="initial-artifact-description"></a>
@@ -96,7 +97,7 @@ In the video linked below, I address the following:
 
 
 
-
+---
 ## Enhancement One <a name="enhancement-one"></a>
 
 ### Enhancement One Narrative
@@ -234,7 +235,7 @@ Link to project files
 
 
 
-
+---
 ## Enhancement Two <a name="enhancement-two"></a>
 
 ### Enhancement Two Narrative
@@ -503,7 +504,7 @@ Link to project files
 
 
 
-
+---
 ## Enhancement Three <a name="enhancement-three"></a>
 
 ### Enhancement Three Narrative
@@ -551,7 +552,7 @@ Link to project files
 
 
 
-
+---
 ## Contact Information <a name="contact-information"></a>
 
 My contact information goes here.
