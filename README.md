@@ -92,6 +92,7 @@ In the video linked below, I address the following:
 For Enhancement One, which concentrated on **Software Design/Engineering**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact - Description".  
+
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills in Software Design/Engineering
@@ -112,6 +113,7 @@ interface comprised of Login, Hardware Init, Cube Control, and Database tabs, re
 ##### Login Tab Functionality
 
 ![Login Tab](/Images/Login_Tab.png)  
+
 The implementation of the Login tab introduces elements of software security and user authentication to the project. The creation of a 
 userCredentials class, complete with functions to check and verify user credentials, showcases my expertise in implementing secure software 
 practices. The seamless integration of login functionality, including feedback mechanisms for successful and failed attempts, underscores my 
@@ -120,6 +122,7 @@ attention to both usability and security aspects.
 ##### Dynamic Hardware Initialization Tab Functionality
 
 ![Hardware Init Tab](/Images/Hardware_Init_Tab.png)  
+
 The Dynamic Hardware Initialization functionality further highlights my skills in software development. The addition of a QSerialPort object 
 demonstrates my ability to integrate external communication protocols into the software architecture. The implementation of error handling 
 mechanisms, such as checking for valid COM port entries and securing against repeated initialization attempts, showcases my commitment to robust 
@@ -131,8 +134,10 @@ hardware initialization underscore my ability to conceive and implement sophisti
 aligns with my commitment to advancing and showcasing my software development skills throughout my academic and professional journey.
 
 ##### Enhancement One Video
+
 A visual walkthrough encapsulated in the video linked below provides a dynamic exploration of these updates. The video not only discusses the 
 intricacies of the software enhancements but also showcases the live functionality of the RGB LED Cube Control Software.  
+
 [![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
 
 #### Meeting Course Objectives
@@ -225,6 +230,7 @@ Link to project files
 For Enhancement Two, which concentrated on **Algorithms and Data Structures**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact - Description".  
+
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
@@ -239,7 +245,32 @@ mastering algorithms and data structures, thereby enriching the comprehensive sk
 
 #### The Modifications I Made to the RGB LED Cube Control Software in this Phase of Development
 
-### Enhancement Two Video
+##### Cube Control Tab Functionality
+
+##### New Classes to Support Cube Control Tab
+
+##### Cube Timing Algorithm
+
+##### Timing Operation of the Cube
+
+##### Managing Pattern Duration
+
+##### Data Parsing Algorithm
+
+###### Function design
+
+###### String Parsing
+
+###### LED Object Update
+
+###### UI Synchronization
+
+###### Time Complexity
+
+##### Enhancement Two Video
+
+A visual walkthrough encapsulated in the video linked below provides a dynamic exploration of these updates. The video not only discusses the 
+intricacies of the software enhancements but also showcases the live functionality of the RGB LED Cube Control Software.  
 
 [![Enhancement Two Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
 
@@ -267,6 +298,7 @@ Link to project files
 For Enhancement Three, which concentrated on **Databases**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact - Description".  
+
 Link to [Initial Artifact - Description](#initial-artifact-description)
 
 #### Why I Chose This Artifact to Display My Skills with Databases
