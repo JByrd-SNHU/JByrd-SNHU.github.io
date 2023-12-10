@@ -224,7 +224,7 @@ awareness of security considerations
 
 [Link to Enhancement One Narrative Word Document](./Artifact_Enhancement_1/Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20Narrative%20-%20Justin%20Byrd.docx)  
 [Link to Enhancement One Stand-Alone Code Files Directory](./Artifact_Enhancement_1/Individual_Code_Files/)  
-[Link to Enhancement One Full Project .zip File](./Artifact_Enhancement_1/RGB_LED_CCS%20-%20Enhancement%201.zip)  
+[Link to Enhancement One Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/RGB_LED_CCS%20-%20Enhancement%202.zip)  
 
 
 
