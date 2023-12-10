@@ -3,6 +3,7 @@
 ![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
 
 
+&nbsp;
 ## Table of Contents <a name="table-of-contents"></a>
 
 1. [Professional Self-Assessment](#professional-self-assessment)
@@ -17,8 +18,14 @@
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
 
 My content for the Professional Self-Assessment section goes here.
@@ -29,8 +36,14 @@ My content for the Professional Self-Assessment section goes here.
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Initial Artifact <a name="initial-artifact"></a>
 
 ### Description <a name="initial-artifact-description"></a>
@@ -87,8 +100,14 @@ In the video linked below, I address the following:
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Enhancement One <a name="enhancement-one"></a>
 
 ### Enhancement One Narrative
@@ -223,8 +242,14 @@ Link to project files
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Enhancement Two <a name="enhancement-two"></a>
 
 ### Enhancement Two Narrative
@@ -490,8 +515,14 @@ Link to project files
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Enhancement Three <a name="enhancement-three"></a>
 
 ### Enhancement Three Narrative
@@ -536,8 +567,14 @@ Link to project files
 
 
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Contact Information <a name="contact-information"></a>
 
 My contact information goes here.
