@@ -8,10 +8,11 @@
 
 1. [Professional Self-Assessment](#professional-self-assessment)
 2. [Initial Artifact](#initial-artifact)
-3. [Enhancement One](#enhancement-one)
-4. [Enhancement Two](#enhancement-two)
-5. [Enhancement Three](#enhancement-three)
-6. [Contact Information](#contact-information)
+3. [Project Outline and Code Review](#code-review)
+4. [Enhancement One](#enhancement-one)
+5. [Enhancement Two](#enhancement-two)
+6. [Enhancement Three](#enhancement-three)
+7. [Contact Information](#contact-information)
   
   
 
@@ -132,9 +133,20 @@ hardware and software through full-stack application development but also provid
 This transition marks the beginning of a new chapter in my career, where I am eager to contribute to innovative projects and continue my journey of 
 lifelong learning in the dynamic field of computer science.  
 
-### Project Summary
+### Tying it All Together
 
+Throughout the three enhancement phases of the project, my focus was on transforming the initial 'RGB LED Cube Control Software' from a simple tool into 
+a comprehensive full-stack application. This choice not only allowed me to showcase my proficiency in software engineering and design, data structures and 
+algorithms, and databases but also aligned seamlessly with my professional aspirations. Specifically, I aimed to delve deeper into full-stack application 
+development with a keen emphasis on seamlessly integrating hardware and software solutions into a unified system.  
 
+In the following sections of my ePortfolio, I will commence by providing an overview of the initial artifact that served as the focal point for 
+enhancement throughout this project. This will be followed by a detailed video code review that I conducted, shedding light on the foundational state of 
+the RGB LED Cube Control Software. Subsequently, I’ll delve into the key modifications implemented during each enhancement phase, providing links to the 
+corresponding code files and YouTube video demonstrations. This will allow you to witness the live operation and evolution of the RGB LED Cube Control 
+Software at each phase of its development. Additionally, you'll find links to comprehensive narratives offering in-depth insights into each enhancement 
+phase's work, with detailed descriptions of the modifications and improvements made during development. These narratives are accessible both as 
+stand-alone Word documents and on the web for easy viewing.  
 
 [Back to Table of Contents](#table-of-contents)
   
@@ -143,45 +155,8 @@ lifelong learning in the dynamic field of computer science.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &nbsp;
 ## Initial Artifact <a name="initial-artifact"></a>
-
-### Description <a name="initial-artifact-description"></a>
 
 The artifact central to my enhancements is the "RGB LED Cube Control Software", a project initiated during my Electrical Engineering Technology Associate 
 degree program's capstone in 2015. Initially, I constructed a 4x4x4 LED Cube with RGB LEDs, shown below, integrating it with an FPGA development board and 
@@ -201,36 +176,157 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
-### Links Back to Enhancement Artifact Descriptions
-[Back to Enhancement One Artifact Description](#enhancement-one-artifact-choice)  
-[Back to Enhancement Two Artifact Description](#enhancement-two-artifact-choice)  
-[Back to Enhancement Three Artifact Description](#enhancement-three-artifact-choice)  
+[Back to Table of Contents](#table-of-contents)
 
-### Project Outline and Code Review Video
 
-In the video linked below, I address the following:
+&nbsp;
+## Project Outline and Code Review Video <a name="code-review"></a>
 
-- **Project Background**
-  - Description of the hardware
-  - Arduino Driver
-- **Initial Artifact - RGB LED Cube Control Software**
-  - Discuss how it works
-  - Code Review
-- **Enhancement 1**
-  - Discuss Enhancement Plan
-  - Discuss which course outcomes this enhancement works towards
-- **Enhancement 2**
-  - Discuss Enhancement Plan
-  - Discuss which course outcomes this enhancement works towards
-- **Enhancement 3**
-  - Discuss Enhancement Plan
-  - Discuss which course outcomes this enhancement works towards
+The code review marked the initiation of the development process. In the linked video below, I delve into the hardware interfacing aspects of the initial 
+version of the RGB LED Cube Control Software, present the software in its initial state, conduct a comprehensive code review on the initial software, and 
+outline a structured three-step enhancement plan. This plan outlines the specific objectives for each enhancement and demonstrates how they align with the 
+course outcomes. 
 
 [![Code Review Video](https://img.youtube.com/vi/PrN7pwSR6RM/0.jpg)](https://www.youtube.com/watch?v=PrN7pwSR6RM)
 
 [Back to Table of Contents](#table-of-contents)
   
   
+
+
+
+
+&nbsp;
+## Enhancement One <a name="enhancement-one"></a>
+
+### Overview of Modifications
+
+In enhancement phase one of development, the RGB LED Cube Control Software underwent a transformative phase that laid the foundation for its evolution into 
+a comprehensive full-stack application. The key highlights of this phase encompassed a meticulous UI overhaul, where I revamped and enhanced the user 
+interface to ensure a more intuitive and aesthetically pleasing design. Simultaneously, the integration of robust security-centric features became a focal 
+point, setting the stage for a secure and user-authenticated application.  
+
+Notably, I implemented significant functionality within the Login and Hardware Initialization tabs. The Login tab, fortified with security measures, became 
+the gateway to the software, ensuring secure access and authentication. Meanwhile, the Hardware Initialization tab set the groundwork for seamless 
+communication with the RGB LED Cube hardware.  
+
+### Enhancement One Links
+
+#### Project Files
+
+[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_1/RGB_LED_CCS%20-%20Enhancement%201.zip)  
+
+[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_1/Individual_Code_Files)  
+
+#### Video Walkthrough
+
+[![Enhancement One Video](https://img.youtube.com/vi/-KXExONsFV8/0.jpg)](https://www.youtube.com/watch?v=-KXExONsFV8)
+
+#### In-Depth Enhancement Narrative
+
+[Word Document Version of Enhancement Narrative](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_1/Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20Narrative%20-%20Justin%20Byrd.docx)  
+
+[Web Version of Enhancement Narrative](#enhancement-one-web-narrative)  
+
+[Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
+&nbsp;
+## Enhancement Two <a name="enhancement-two"></a>
+
+### Overview of Modifications
+
+In enhancement phase two of development, I immersed myself into the nuances of software architecture related to data structures and algorithmic design. 
+The refinements introduced in this stage, such as the overhauled Cube Control Tab, introduction of novel classes (led and cubeControl), and the inventive 
+Cube Timing Algorithm, serve as concrete demonstrations of my proficiency in navigating algorithmic intricacies while ensuring streamlined data 
+management. Notably, the Data Parsing Algorithm, strategically crafted to seamlessly integrate with an upcoming database module, reflects a 
+forward-thinking approach to software design and underscores my commitment to creating adaptable and future-proof solutions. In essence, this selection 
+highlights my unwavering dedication to mastering algorithms and data structures, thereby enriching the comprehensive skill set showcased in my ePortfolio.  
+
+### Enhancement Two Links
+
+#### Project Files
+
+[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/RGB_LED_CCS%20-%20Enhancement%202.zip)  
+
+[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_2/Individual_Code_Files)  
+
+#### Video Walkthrough
+
+[![Enhancement Two Video](https://img.youtube.com/vi/M9_ifvqkotE/0.jpg)](https://www.youtube.com/watch?v=M9_ifvqkotE)
+
+#### In-Depth Enhancement Narrative
+
+[Word Document Version of Enhancement Narrative](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20Narrative%20-%20Justin%20Byrd.docx)  
+
+[Web Version of Enhancement Narrative](#enhancement-two-web-narrative)  
+
+[Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
+&nbsp;
+## Enhancement Three <a name="enhancement-three"></a>
+
+### Overview of Modifications
+
+In enhancement phase three, I showcase substantial advancements in database integration, underlining my proficiency in crafting full-stack applications. 
+The introduction of the sqliteCRUDModule class marked a significant stride, focusing on implementing CRUD (Create, Read, Update, Delete) operations and 
+showcasing a commitment to modular and organized code. The creation of the “RGB_LED_CCS_DB.db” database, including the “cubePatterns” table, illustrated 
+a deliberate approach to structured data storage, aligning with the principles of CRUD. The decision to pivot from MongoDB to SQLite, which I will speak 
+to in further detail below, underscored a pragmatic problem-solving approach, emphasizing adaptability and decision-making skills. In essence, this 
+artifact selection highlights my dedication to mastering comprehensive database integration, particularly emphasizing CRUD functionality, and illustrates 
+my ability to interface with databases and integrate them seamlessly into full-stack applications within the realm of software development.  
+
+### Enhancement Three Links
+
+#### Project Files
+
+[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_3/RGB_LED_CCS%20-%20Enhancement%203.zip)  
+
+[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_3/Individual_Code_Files)  
+
+#### Video Walkthrough
+
+[![Enhancement Three Video](https://img.youtube.com/vi/LhghKqOzzrc/0.jpg)](https://www.youtube.com/watch?v=LhghKqOzzrc)
+
+#### In-Depth Enhancement Narrative
+
+[Word Document Version of Enhancement Narrative](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_3/Milestone%20Four%20Enhancement%20Three%20Databases%20Narrative%20-%20Justin%20Byrd.docx)  
+
+[Web Version of Enhancement Narrative](#enhancement-three-web-narrative)  
+
+[Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
