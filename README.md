@@ -178,9 +178,9 @@ in the ongoing development of a project that seamlessly marries my technical ski
 
 #### Project Files
 
-[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_1/RGB_LED_CCS%20-%20Enhancement%201.zip)  
+[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Initial_Artifact/LED_Cube_Control_Software.zip)  
 
-[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_1/Individual_Code_Files)  
+[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Initial_Artifact/Individual_Code_Files)  
 
 [Back to Table of Contents](#table-of-contents)
 
