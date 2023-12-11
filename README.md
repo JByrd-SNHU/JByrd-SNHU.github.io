@@ -210,6 +210,14 @@ Notably, I implemented significant functionality within the Login and Hardware I
 the gateway to the software, ensuring secure access and authentication. Meanwhile, the Hardware Initialization tab set the groundwork for seamless 
 communication with the RGB LED Cube hardware.  
 
+#### UI Login Tab
+
+![Login Tab](/Images/Login_Tab.png)  
+
+#### UI Hardware Init Tab
+
+![Hardware Init Tab](/Images/Hardware_Init_Tab.png)  
+
 ### Enhancement One Links
 
 #### Project Files
@@ -247,6 +255,10 @@ Cube Timing Algorithm, serve as concrete demonstrations of my proficiency in nav
 management. Notably, the Data Parsing Algorithm, strategically crafted to seamlessly integrate with an upcoming database module, reflects a 
 forward-thinking approach to software design and underscores my commitment to creating adaptable and future-proof solutions. In essence, this selection 
 highlights my unwavering dedication to mastering algorithms and data structures, thereby enriching the comprehensive skill set showcased in my ePortfolio.  
+
+#### UI Cube Control Tab
+
+![Cube Control Tab](/Images/Cube_Control_Tab.png)  
 
 ### Enhancement Two Links
 
@@ -286,6 +298,14 @@ a deliberate approach to structured data storage, aligning with the principles o
 to in further detail below, underscored a pragmatic problem-solving approach, emphasizing adaptability and decision-making skills. In essence, this 
 artifact selection highlights my dedication to mastering comprehensive database integration, particularly emphasizing CRUD functionality, and illustrates 
 my ability to interface with databases and integrate them seamlessly into full-stack applications within the realm of software development.  
+
+#### UI Database Tab
+
+![Database Tab](/Images/Database_Tab.png)  
+
+#### Command Line View of RGB_LED_CCS_DB.db
+
+![Database On Command Line](/Images/Database_On_Command_Line.png)  
 
 ### Enhancement Three Links
 
@@ -333,7 +353,6 @@ my ability to interface with databases and integrate them seamlessly into full-s
 
 
 
-
 &nbsp;
 ## Enhancement One Web Narrative <a name="enhancement-one-web-narrative"></a>
 
@@ -343,9 +362,9 @@ my ability to interface with databases and integrate them seamlessly into full-s
 
 For Enhancement One, which concentrated on **Software Design/Engineering**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
-titled "Initial Artifact - Description".  
+titled "Initial Artifact".  
 
-Link to [Initial Artifact - Description](#initial-artifact-description)
+Link to [Initial Artifact](#initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills in Software Design/Engineering
 
@@ -373,7 +392,7 @@ attention to both usability and security aspects.
 
 ##### Dynamic Hardware Initialization Tab Functionality
 
-![Hardware Init Tab](/Images/Hardware_Init_Tab.png)  
+
 
 The Dynamic Hardware Initialization functionality further highlights my skills in software development. The addition of a QSerialPort object 
 demonstrates my ability to integrate external communication protocols into the software architecture. The implementation of error handling 
@@ -485,9 +504,9 @@ awareness of security considerations
 
 For Enhancement Two, which concentrated on **Algorithms and Data Structures**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
-titled "Initial Artifact - Description".  
+titled "Initial Artifact".  
 
-Link to [Initial Artifact - Description](#initial-artifact-description)
+Link to [Initial Artifact](#initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
 
@@ -748,7 +767,6 @@ development.
 
 
 
-
 &nbsp;
 ## Enhancement Three Web Narrative <a name="enhancement-three-web-narrative"></a>
 
@@ -758,9 +776,9 @@ development.
 
 For Enhancement Three, which concentrated on **Databases**, I selected the RGB LED Cube Control Software as the focal artifact. A 
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
-titled "Initial Artifact - Description".  
+titled "Initial Artifact".  
 
-Link to [Initial Artifact - Description](#initial-artifact-description)
+Link to [Initial Artifact](#initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills with Databases
 
