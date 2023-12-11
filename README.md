@@ -82,8 +82,6 @@ Data Structures and Algorithms have been integral components of all three enhanc
 proficiency in these foundational aspects of computer science. The creation of classes such as RGBLEDCCS, cubeControl, led, userCredentials, and 
 sqliteCRUDModule reflects my commitment to crafting a modular and interconnected architecture.  
 
-*Class Relationship Diagram*  
-
 Embedded within these classes are algorithms designed to facilitate seamless communication among different components of the RGB LED Cube Control 
 Software. These algorithms extend their influence beyond the software, interfacing with the Arduino Uno and LED cube hardware, as well as the SQLite 
 database. An essential aspect of my approach is not only creating functional algorithms but also ensuring their efficiency. The evaluation of time 
