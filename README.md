@@ -24,11 +24,153 @@
 &nbsp;
 ## Professional Self-Assessment <a name="professional-self-assessment"></a>
 
-My content for the Professional Self-Assessment section goes here.
+### Introduction
+
+Greetings, I am Justin Byrd, currently on the brink of completing my Bachelor's Degree in Computer Science, a significant milestone in a journey that 
+began with an Associate's Degree in Electrical Engineering Technology. My professional voyage spans nine years at BAE Systems, where I've served as an 
+electrical technician. Over the years, I've immersed myself in various domains of the defense industry, starting with production testing of intricate 
+radio and optical systems.  
+
+As I progressed, my journey led me into the dynamic realm of research and development, providing invaluable experiences within the integrated circuit 
+design team. This phase involved diverse responsibilities, from circuit card schematic and layout design, integrated circuit schematic and layout 
+design, embedded systems, and eventually culminating in the development of automated test software. Notably, I had the privilege of designing a 
+full-stack application aimed at meticulously tracking materials entering and leaving dry box storage in our labs, a project that ignited my passion for 
+software development.  
+
+These pivotal assignments, particularly in full-stack application development and the integration of hardware and software in the automated test 
+software, inspired the creation of the RGB LED Cube Control Software. This project stands as a testament to my commitment to marrying software and 
+hardware, echoing the fulfillment I find in the convergence of these two worlds. As I reflect on this journey, I am excited to present this ePortfolio, 
+a compilation of artifacts that showcase my skills, growth, and readiness to make meaningful contributions to the field of computer science.  
+
+### Collaborating in a Team Environment
+
+In my tenure in the computer science program, I've had the privilege of collaborating with exceptional professors and fellow students. Throughout my 
+courses, interactive discussion assignments were a norm, fostering an environment where peers could exchange ideas and establish connections. However, 
+it was the version control class, specifically focusing on git, that left a lasting impression on collaborative endeavors. This class introduced several 
+projects where the entire cohort collaborated within the same remote repository on Bitbucket. We collectively contributed updates to the codebase, 
+engaging in thorough code reviews. These reviews were instrumental in cultivating a standardized software package, ensuring uniformity in naming 
+conventions, commenting standards, and, most importantly, seamless integration of everyone's contributions.  
+
+My experience at BAE Systems, particularly in the research and development sector, provided additional insights into effective teamwork. The teams I've 
+been part of boast diverse skill sets, each member contributing unique expertise. Given this diversity, duplicative efforts are rare, and successful 
+project completion hinges on robust communication. The necessity to bridge gaps between various skill domains underscores the significance of clear and 
+consistent communication in achieving project objectives.  
+
+### Communicating to Stakeholders
+
+Communicating to stakeholders has been a crucial aspect of my journey, both in academia and the professional sphere. In my academic pursuits, professors 
+served as primary stakeholders for my assignments. To ensure alignment with guidelines and rubrics, I proactively sought clarification via email, 
+providing supporting details for a comprehensive understanding of assignment expectations.  
+
+In the professional realm, I've engaged with stakeholders in diverse capacities. When working on internal projects, the lead engineer or project manager 
+took on the role of primary stakeholders. Conversely, external customers assumed this position for projects tailored to their needs. My communication 
+strategy emphasized clarity and proactive clarification of uncertainties, regardless of the project's nature.  
+
+A pivotal lesson in stakeholder communication was the importance of transparency when faced with unforeseen challenges. Rather than attempting to resolve 
+issues independently, I recognized the value of promptly informing stakeholders about any obstacles and involving them in decision-making. While minor 
+issues could be addressed swiftly, challenges of unknown scope demanded collaborative problem-solving, ensuring stakeholders had a voice in navigating 
+the complexities.  
+
+Moreover, understanding the busy schedules of stakeholders underscored the significance of concise communication. Striking a balance between providing 
+sufficient, relevant information for informed decision-making and avoiding unnecessary details became paramount. This approach aimed to keep stakeholders 
+well-informed without overwhelming them with extraneous information.  
+
+### Data Structures and Algorithms
+
+Data Structures and Algorithms have been integral components of all three enhancements within the RGB LED Cube Control Software project, showcasing my 
+proficiency in these foundational aspects of computer science. The creation of classes such as RGBLEDCCS, cubeControl, led, userCredentials, and 
+sqliteCRUDModule reflects my commitment to crafting a modular and interconnected architecture.  
+
+*Class Relationship Diagram*  
+
+Embedded within these classes are algorithms designed to facilitate seamless communication among different components of the RGB LED Cube Control 
+Software. These algorithms extend their influence beyond the software, interfacing with the Arduino Uno and LED cube hardware, as well as the SQLite 
+database. An essential aspect of my approach is not only creating functional algorithms but also ensuring their efficiency. The evaluation of time 
+complexity for critical algorithms underscores my dedication to developing algorithms that not only work but work optimally. A notable example is the 
+timing algorithm crafted for lighting the cube, enabling the illusion of the entire cube consistently appearing lit despite only four LEDs being 
+illuminated at any given moment. This commitment to efficient and effective algorithm design is a hallmark of my approach to problem-solving in 
+software development.  
+
+### Software Engineering and Database
+
+In the realm of Software Engineering and Database Management, my proficiency is prominently showcased throughout all three enhancements, stemming from the 
+comprehensive nature of the RGB LED Cube Control Software project, which entails the development of a full-stack application. Leveraging various QT 
+libraries, including their User Interface (UI) framework, Serial Port library for communication with an Arduino Uno, and SQL library for interaction with 
+the SQLite database, I crafted a sophisticated yet user-friendly UI.  
+
+Noteworthy is the journey with databases, epitomized by the strategic pivot from MongoDB, initially planned as the back-end solution, to SQLite, an 
+entirely new database solution for me. This shift exemplifies my dedication to acquiring proficiency in diverse database solutions, driven by the pursuit 
+of finding the most suitable tool for a given problem. The implementation of CRUD (Create, Read, Update, Delete) functionality, orchestrated through the 
+sqliteCRUDModule class, underscores my capability to exert comprehensive control over databases directly from an application. This ability, coupled with 
+the adept handling of various database solutions, emphasizes my adaptability and problem-solving skills in the dynamic field of software engineering.  
+
+### Security
+
+My commitment to creating security-centric software is prominently demonstrated in Enhancement One of the RGB LED Cube Control Software project. A key 
+facet of this endeavor involves the creation of the userCredentials class, a dedicated module designed to prioritize the safeguarding of sensitive login 
+information. The instantiation of this class during program startup, with username and password variables initialized from static const QString variables, 
+systemUserName and systemPassword, establishes a secure foundation for user authentication.  
+
+Notably, the UI design reflects a security-conscious strategy by limiting access exclusively to the login tab at startup. Successful authentication 
+becomes a prerequisite for progression within the system. A systematic control mechanism, triggered upon successful login, secures the login button and 
+grants access to subsequent tabs.  
+
+This approach ensures that the software not only fulfills functional objectives but also embodies a proactive stance in addressing potential security 
+vulnerabilities. The emphasis on a secure user authentication process and controlled system progression underscores my commitment to robust software 
+architecture and data security.  
+
+### Professional Goals
+
+As I approach the conclusion of my bachelor's degree program in Computer Science, marked by the completion of this Capstone Project and ePortfolio, I am 
+poised to channel the extensive skills I've cultivated through both academic learning and professional experiences into propelling my career forward. The 
+integration of hardware and software has been a source of immense satisfaction for me, particularly in the creation of user-friendly software solutions 
+through the development of full-stack applications. This involves tackling the intricacies of a problem and providing users with seamless interfaces for 
+executing complex tasks effortlessly.  
+ 
+My enthusiasm lies in utilizing these acquired skills to secure a role that not only allows me to further refine my expertise in the integration of 
+hardware and software through full-stack application development but also provides insights into potential areas of specialization for a master's degree. 
+This transition marks the beginning of a new chapter in my career, where I am eager to contribute to innovative projects and continue my journey of 
+lifelong learning in the dynamic field of computer science.  
+
+### Project Summary
+
+
 
 [Back to Table of Contents](#table-of-contents)
   
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -97,7 +239,7 @@ In the video linked below, I address the following:
 
 
 &nbsp;
-## Enhancement One <a name="enhancement-one"></a>
+## Enhancement One Web Narrative <a name="enhancement-one-web-narrative"></a>
 
 ### Enhancement One Narrative
 
@@ -239,7 +381,7 @@ awareness of security considerations
 
 
 &nbsp;
-## Enhancement Two <a name="enhancement-two"></a>
+## Enhancement Two Web Narrative <a name="enhancement-two-web-narrative"></a>
 
 ### Enhancement Two Narrative
 
@@ -512,7 +654,7 @@ development.
 
 
 &nbsp;
-## Enhancement Three <a name="enhancement-three"></a>
+## Enhancement Three Web Narrative <a name="enhancement-three-web-narrative"></a>
 
 ### Enhancement Three Narrative
 
