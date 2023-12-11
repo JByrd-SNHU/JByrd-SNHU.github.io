@@ -332,7 +332,10 @@ my ability to interface with databases and integrate them seamlessly into full-s
 &nbsp;
 ## Contact Information <a name="contact-information"></a>
 
-My contact information goes here.
+**Full Name:** Justin Byrd  
+**Email:** justin.byrd@snhu.edu
+**GitHub:** [Justin Byrd's GitHub](https://github.com/JByrd-SNHU)  
+**YouTube Channel:** [Justin Byrd's YouTube Channel](https://www.youtube.com/@JByrd-SNHU)  
 
 [Back to Table of Contents](#table-of-contents)
 
