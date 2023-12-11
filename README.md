@@ -174,7 +174,18 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
+### Initial Artifact Links
+
+#### Project Files
+
+[Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_1/RGB_LED_CCS%20-%20Enhancement%201.zip)  
+
+[Singular Code Files](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_1/Individual_Code_Files)  
+
 [Back to Table of Contents](#table-of-contents)
+
+
+
 
 
 &nbsp;
