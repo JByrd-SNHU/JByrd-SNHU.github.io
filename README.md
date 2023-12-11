@@ -344,7 +344,7 @@ My contact information goes here.
 &nbsp;
 # ---------------------------------------------------------------------------
 ### End of ePortfolio
-### Hosting In-Depth Enhancement Narratives Below
+### Hosting Web Version In-Depth Enhancement Narratives Below
 # ---------------------------------------------------------------------------
 
 
