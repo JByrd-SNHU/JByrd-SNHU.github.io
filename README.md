@@ -329,6 +329,23 @@ my ability to interface with databases and integrate them seamlessly into full-s
 
 
 
+&nbsp;
+## Contact Information <a name="contact-information"></a>
+
+My contact information goes here.
+
+[Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+
+&nbsp;
+# ---------------------------------------------------------------------------
+### End of ePortfolio
+### Hosting In-Depth Enhancement Narratives Below
+# ---------------------------------------------------------------------------
 
 
 
@@ -340,10 +357,28 @@ my ability to interface with databases and integrate them seamlessly into full-s
 
 
 
+&nbsp;
+## Initial Artifact <a name="web-narrative-initial-artifact"></a>
 
+The artifact central to my enhancements is the "RGB LED Cube Control Software", a project initiated during my Electrical Engineering Technology Associate 
+degree program's capstone in 2015. Initially, I constructed a 4x4x4 LED Cube with RGB LEDs, shown below, integrating it with an FPGA development board and 
+crafting custom firmware to manipulate the 52 control lines governing the 64 LEDs.  
 
+![4x4x4 RGB LED Cube](/Images/LED_Cube.png)
 
+In a recent pursuit of rekindling my enthusiasm for the project, I designed additional circuitry to interface my RGB LED Cube Control Software with an 
+Arduino Uno, facilitating control over the RGB LEDs. Prior to the start of this course, I had developed a simple functional user interface (UI), shown 
+below, establishing communication with the Arduino Uno through a COM Port. This initial UI empowered me to illuminate one color of one LED based on 
+user-defined color, X, Y, and Z values.
 
+![Initial Artifact UI](/Images/Initial_Artifact_UI.png)
+
+Having accomplished the hardware integration and circuitry enhancements, the focus of my Computer Science Capstone project pivots decisively to the 
+evolution of the RGB LED Cube Control Software. With the foundational hardware components in place and the initial user interface demonstrating functional 
+control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
+in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
+
+[Back to Table of Contents](#table-of-contents)
 
 
 
@@ -362,7 +397,7 @@ For Enhancement One, which concentrated on **Software Design/Engineering**, I se
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact".  
 
-Link to [Initial Artifact](#initial-artifact)
+Link to [Initial Artifact](#web-narrative-initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills in Software Design/Engineering
 
@@ -481,9 +516,7 @@ awareness of security considerations
 [Link to Enhancement One Stand-Alone Code Files Directory](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_1/Individual_Code_Files)  
 [Link to Enhancement One Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_1/RGB_LED_CCS%20-%20Enhancement%201.zip)  
 
-
-
-[Back to Table of Contents](#table-of-contents)
+[Back to Enhancement One](#enhancement-one)
   
   
 
@@ -504,7 +537,7 @@ For Enhancement Two, which concentrated on **Algorithms and Data Structures**, I
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact".  
 
-Link to [Initial Artifact](#initial-artifact)
+Link to [Initial Artifact](#web-narrative-initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills in Algorithms and Data Structure
 
@@ -754,9 +787,7 @@ development.
 [Link to Enhancement Two Stand-Alone Code Files Directory](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_2/Individual_Code_Files)  
 [Link to Enhancement Two Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_2/RGB_LED_CCS%20-%20Enhancement%202.zip)  
 
-
-
-[Back to Table of Contents](#table-of-contents)
+[Back to Enhancement Two](#enhancement-two)
 
 
 
@@ -776,7 +807,7 @@ For Enhancement Three, which concentrated on **Databases**, I selected the RGB L
 comprehensive description of this particular artifact has been provided in detail in the preceding section 
 titled "Initial Artifact".  
 
-Link to [Initial Artifact](#initial-artifact)
+Link to [Initial Artifact](#web-narrative-initial-artifact)
 
 #### Why I Chose This Artifact to Display My Skills with Databases
 
@@ -943,21 +974,4 @@ the project context.
 [Link to Enhancement Three Stand-Alone Code Files Directory](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/tree/main/Artifact_Enhancement_3/Individual_Code_Files)  
 [Link to Enhancement Three Full Project .zip File](https://github.com/JByrd-SNHU/JByrd-SNHU.github.io/blob/main/Artifact_Enhancement_3/RGB_LED_CCS%20-%20Enhancement%203.zip)  
 
-
-
-[Back to Table of Contents](#table-of-contents)
-
-
-
-
-
-
-
-
-
-&nbsp;
-## Contact Information <a name="contact-information"></a>
-
-My contact information goes here.
-
-[Back to Table of Contents](#table-of-contents)
+[Back to Enhancement Three](#enhancement-three)
