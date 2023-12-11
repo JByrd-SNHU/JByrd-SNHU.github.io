@@ -344,7 +344,7 @@ My contact information goes here.
 &nbsp;
 # ---------------------------------------------------------------------------
 ### End of ePortfolio
-### Hosting Web Version In-Depth Enhancement Narratives Below
+### Hosting Web Version of In-Depth Enhancement Narratives Below
 # ---------------------------------------------------------------------------
 
 
@@ -378,7 +378,9 @@ evolution of the RGB LED Cube Control Software. With the foundational hardware c
 control over individual LEDs, my aim is to delve into advanced features and optimizations within the software realm. This shift marks the latest chapter 
 in the ongoing development of a project that seamlessly marries my technical skills in both hardware and software domains.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to In Depth Enhancement Narrative One](#enhancement-one-web-narrative)  
+[Back to In Depth Enhancement Narrative Two](#enhancement-two-web-narrative)  
+[Back to In Depth Enhancement Narrative Three](#enhancement-three-web-narrative)  
 
 
 
