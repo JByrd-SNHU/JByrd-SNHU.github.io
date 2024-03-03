@@ -347,7 +347,7 @@ my ability to interface with databases and integrate them seamlessly into full-s
 
 **Full Name:** Justin Byrd  
 
-**Email:** justin.byrd@snhu.edu
+**Email:** justinbyrd603@gmail.com
 
 **GitHub:** [Justin Byrd's GitHub](https://github.com/JByrd-SNHU)  
 
